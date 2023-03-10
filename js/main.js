@@ -4,4 +4,4 @@ function rem(){
 }	
 function show(){
 	black.style.display = "flex";
-}
+};
